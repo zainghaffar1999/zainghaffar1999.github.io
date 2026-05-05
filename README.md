@@ -78,5 +78,5 @@ About Me
 Zain Bin Ghaffar — MERN Stack Developer based in Lahore, Pakistan
 
 Email: zainbinghaffar@gmail.com
-LinkedIn: linkedin.com/in/zainbinghaffar
-Portfolio: your-portfolio-link.netlify.app
+LinkedIn: www.linkedin.com/in/zain-ghaffar-17b562183
+Portfolio: https://zain-ghaffar.netlify.app/
